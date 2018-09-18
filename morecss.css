@@ -1,0 +1,11 @@
+.social-media-links a {
+    color: white;
+}
+
+.social-media-links a:hover {
+    color: #9ccc50;
+}
+
+.footer-menu span {
+    color: black;
+}
